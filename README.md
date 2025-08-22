@@ -56,7 +56,7 @@ Built with Next.js 15 App Router, Clerk for Auth, React, OpenAI GPT-4, Langchain
 - 🛎️ Toast notifications for upload status, processing updates, and error handling
 - ⚡ Performance optimizations
 - 🌐 SEO-friendly summary generation
-- 
+
 ---
 
 ## 🛠️ Getting Started
